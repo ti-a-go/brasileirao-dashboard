@@ -7,7 +7,7 @@ Esse projeto se trata de um dashboard de análise de dados desenvolvido com [Str
 Instalando as dependências:
 
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Iniciando o servidor Streamlit:
